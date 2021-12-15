@@ -1,5 +1,5 @@
 <!--Nathan Neher 12/12/21-->
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="utf-8" />
